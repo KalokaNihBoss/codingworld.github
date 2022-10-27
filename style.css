@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Style */
+
+/* Jumbotron */
+.jumbotron {
+    padding-top: 10rem;
+    background-color: #ffdf80;
+}
+
+.jumbotron hr {
+    border-color: #ffbf00;
+}
+
+/* About */
+#about {
+    margin-top: 5pc;
+}
+
+/* Project */
+#project {
+    background-color: #ffdf80;
+}
+
+/* Footer */
+footer p i {
+    transition: all ease 0.2s;
+    color: #dc3545;
+}
+
+/* CodeFrame */
+.codeFrame {
+    background-color: #363636;
+    padding: 10px;
+    border-radius: 10px;
+    color: #ff0019;
+    margin: 2.5pc 0;
+}
+
+.codeFrame .block {
+    color: #ffffff;
+    padding: 0;
+    background-color: rgb(157, 157, 255);
+    border-radius: 5px;
+}
+
+/* Responsive BreakPoint */
